@@ -1,2 +1,1 @@
-# klognio.github.io
-Kesari Nandan
+# klognos.github.io
