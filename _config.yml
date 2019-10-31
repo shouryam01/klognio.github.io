@@ -1,5 +1,5 @@
 ### Site Settings ###
-title               : portfolYOU
+title               : KesariNandan
 description         : >-                               # >- means to ignore newlines until "url:"
                       I turn coffee into code,
                       use tabs over spaces
@@ -12,23 +12,23 @@ remote_theme       : YoussefRaafatNasry/portfolYOU    # uncomment this if you ar
 
 ### Author Info ###
 author:
-  name              : John Doe
+  name              : Kesari Nandan
   image             : https://bit.ly/2KCvgVJ
-  behance           : your_username
+  behance           : klogn
 # dribbble          : your_username
-  email             : username@domain.com
-  facebook          : your_username
-  github            : your_username
+  email             : klogn@outlook.com
+  facebook          : klogn
+  github            : klogn
 # gitlab            : your_username
 # instagram         : your_username
-  linkedin          : your_username
-  medium            : your_username
+  linkedin          : klogn
+  medium            : klogn
 # soundcloud        : your_username
 # spotify           : your_username
 # stackoverflow     : your_user_id
 # tumblr            : your_username.tumblr.com
 # twitch            : your_username
-  twitter           : your_username
+  twitter           : klogn
 # vimeo             : your_username
 # youtube           : your_channel_name
 
@@ -47,6 +47,9 @@ collections:
   projects:
     output: true
     permalink: /projects/:name
+  projects2:
+    output: true
+    permalink: /projects2/:name
 
 
 ### Defaults for collections ###
